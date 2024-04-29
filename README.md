@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying Mechatronics
+- 🌱 I’m currently pursuing a career in Mechatronics
 
 <!--
 **elecavazza/elecavazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
