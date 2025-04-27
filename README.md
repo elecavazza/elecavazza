@@ -6,6 +6,13 @@
 
 Here are some of the things I've been building:
 
+### 🔹 Arduino Projects
+- **[Bluetooth Control](https://github.com/elecavazza/control-arduino-using-bluetooth)**  
+  Control Arduino wirelessly via an Android app.
+
+- **[Conveyor Belt Challenge](https://github.com/elecavazza/arduino-conveyor-belt)**  
+  A mini industrial automation setup using Arduino.
+
 ### 🔹 SCADA Systems with LabVIEW
 - **[Heating Control System](https://github.com/elecavazza/scada-labview-heating-control-system)**  
   Temperature control using LabVIEW with real-time data logging.
@@ -18,13 +25,6 @@ Here are some of the things I've been building:
 
 - **[Vending Machine Simulation](https://github.com/elecavazza/scada-labview-vending-machine)**  
   Models a vending machine using state machines in LabVIEW.
-
-### 🔹 Arduino Projects
-- **[Bluetooth Control](https://github.com/elecavazza/control-arduino-using-bluetooth)**  
-  Control Arduino wirelessly via an Android app.
-
-- **[Conveyor Belt Challenge](https://github.com/elecavazza/arduino-conveyor-belt)**  
-  A mini industrial automation setup using Arduino.
 
 ## 🌱 About Me
 - 🇮🇹 **Italian**, living in 🇮🇪 **Ireland**
