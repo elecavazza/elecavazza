@@ -33,6 +33,6 @@ Here are some of the things I've been building:
 - 📚 Constantly learning: automation, SCADA, embedded systems, and robotics
 
 ## 📫 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/elena-cavazza-06322a241)
+- [LinkedIn](https://www.linkedin.com/in/elena-cavazza-06322a241)
 
 
